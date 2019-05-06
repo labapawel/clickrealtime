@@ -1,0 +1,7 @@
+<div class="row mt-5">
+  <div class="col-md text-center">
+    <div [hidden]="myID == ''"> Moje ID: {{myID}} liczba aktywnych Klientow: {{countClients}}</div>
+    <span [ngClass]="{'btn': true, 'btn-success':true, 'disabled':!isConnect}"class="btn btn-success" [hidden]="firstRun" (click)="Click()" >Klikałem {{counter}} razy</span>
+    <span class="btn btn-danger" [hidden]="!firstRun" (click)="Connect()" >Połącz</span>
+  </div>
+</div>

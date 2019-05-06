@@ -1,0 +1,14 @@
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\bin\Debug\netcoreapp2.1\ClickService.deps.json
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\bin\Debug\netcoreapp2.1\ClickService.runtimeconfig.json
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\bin\Debug\netcoreapp2.1\ClickService.runtimeconfig.dev.json
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\bin\Debug\netcoreapp2.1\ClickService.dll
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\bin\Debug\netcoreapp2.1\ClickService.pdb
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\obj\Debug\netcoreapp2.1\ClickService.csprojAssemblyReference.cache
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\obj\Debug\netcoreapp2.1\ClickService.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\obj\Debug\netcoreapp2.1\ClickService.RazorAssemblyInfo.cache
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\obj\Debug\netcoreapp2.1\ClickService.RazorAssemblyInfo.cs
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\obj\Debug\netcoreapp2.1\ClickService.AssemblyInfoInputs.cache
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\obj\Debug\netcoreapp2.1\ClickService.AssemblyInfo.cs
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\obj\Debug\netcoreapp2.1\ClickService.RazorTargetAssemblyInfo.cache
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\obj\Debug\netcoreapp2.1\ClickService.dll
+C:\Users\Pawel\android\clickRealTime\c#\ClickService\ClickService\obj\Debug\netcoreapp2.1\ClickService.pdb

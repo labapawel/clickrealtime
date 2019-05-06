@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'clickRealTime';
+  firstScreen = true;
+
+  clientType = "";
+
+  showClient(type:string)
+  {
+    this.firstScreen = false;
+    this.clientType = type;
+  }
 }
